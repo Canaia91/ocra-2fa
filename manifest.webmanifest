@@ -1,0 +1,9 @@
+{
+  "name": "OCRA 2FA",
+  "short_name": "OCRA 2FA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "description": "Calcolatore OCRA RFC 6287 offline per OCRA-1:HOTP-SHA1-6:QN08"
+}
